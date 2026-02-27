@@ -88,7 +88,7 @@ React/JavaScript web application using REST API to fetch and dynamically display
 ---
 
 ⭐ Passionate about building scalable applications and continuously improving as a developer.
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake .
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kotichowdary-000/Kotichowdary-000/output/github-contribution-grid-snake.svg" />
