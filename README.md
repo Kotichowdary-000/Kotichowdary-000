@@ -56,7 +56,7 @@ React/JavaScript-based web app using REST API to fetch and display meal details 
 
 ### 📄 Resume
 
-📌 [Download My Resume](YOUR_RESUME_LINK_HERE)
+📌 📌 [Download My Resume](https://raw.githubusercontent.com/Kotichowdary-000/Resume/main/Koti_Mannem_FSD.pdf)
 
 (Upload your resume PDF to GitHub and paste the raw link above.)
 
